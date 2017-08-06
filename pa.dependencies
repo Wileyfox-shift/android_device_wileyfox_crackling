@@ -1,0 +1,26 @@
+[
+ {
+    "remote":"github",
+    "repository": "wileyfox-shift/android_device_wileyfox_crackling",
+    "target_path": "device/wileyfox/crackling",
+    "revision":"nougat-mr2"
+  },
+  {
+    "remote":"github",
+    "repository": "wileyfox-shift/android_device_cyanogen_msm8916-common",
+    "target_path": "device/cyanogen/msm8916-common",
+    "revision":"nougat-mr2"
+  },
+  {
+    "remote":"github",
+    "repository": "LineageOS/android_kernel_cyanogen_msm8916",
+    "target_path": "kernel/cyanogen/msm8916",
+    "revision":"cm-14.1"
+  },
+  {
+    "remote":"github",
+    "repository": "TheMuppets/proprietary_vendor_wileyfox",
+    "target_path": "vendor/wileyfox",
+    "revision":"cm-14.1"
+  }
+]
